@@ -1,12 +1,12 @@
-URL,nome,count
+URL,Nome,Quantidade
 https://cursos.alura.com.br/forum/subcategoria-multiplataforma/sem-resposta/1,Multiplataforma,23
 https://cursos.alura.com.br/forum/subcategoria-flutter-mobile/sem-resposta/1,Flutter,4
 https://cursos.alura.com.br/forum/subcategoria-android/sem-resposta/1,Android,5
 https://cursos.alura.com.br/forum/subcategoria-ios/sem-resposta/1,iOS,8
 https://cursos.alura.com.br/forum/subcategoria-jogos/sem-resposta/1,Jogos,3
-https://cursos.alura.com.br/forum/subcategoria-logica-de-programacao/sem-resposta/1,Lógica de programação,89
+https://cursos.alura.com.br/forum/subcategoria-logica-de-programacao/sem-resposta/1,Lógica de programação,88
 https://cursos.alura.com.br/forum/subcategoria-python/sem-resposta/1,Python,32
-https://cursos.alura.com.br/forum/subcategoria-node-js/sem-resposta/1,Node.JS,84
+https://cursos.alura.com.br/forum/subcategoria-node-js/sem-resposta/1,Node.JS,83
 https://cursos.alura.com.br/forum/subcategoria-python-web/sem-resposta/1,Python web,64
 https://cursos.alura.com.br/forum/subcategoria-java-para-web/sem-resposta/1,Java para Web,120
 https://cursos.alura.com.br/forum/subcategoria-java/sem-resposta/1,Java,18
@@ -55,7 +55,7 @@ https://cursos.alura.com.br/forum/subcategoria-cloud-computing/sem-resposta/1,Cl
 https://cursos.alura.com.br/forum/subcategoria-entrega-continua/sem-resposta/1,Entrega Contínua,34
 https://cursos.alura.com.br/forum/subcategoria-mensageria-streams/sem-resposta/1,Mensageria/Streams,35
 https://cursos.alura.com.br/forum/subcategoria-internet-das-coisas/sem-resposta/1,Internet das coisas,12
-https://cursos.alura.com.br/forum/subcategoria-embarcados/sem-resposta/1,Embarcados e Robótica,12
+https://cursos.alura.com.br/forum/subcategoria-embarcados/sem-resposta/1,Embarcados e Robótica,13
 https://cursos.alura.com.br/forum/subcategoria-redes/sem-resposta/1,Redes,33
 https://cursos.alura.com.br/forum/subcategoria-ccna-exame-100-105/sem-resposta/1,CCNA exame 100-105,15
 https://cursos.alura.com.br/forum/subcategoria-windows/sem-resposta/1,Windows,13
