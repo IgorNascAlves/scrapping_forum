@@ -1,0 +1,7 @@
+Duração: 0:01:12.320076 - original
+Duração: 0:01:07.521570 - modificação dos 20 topicos
+Duração: 0:01:08.332508 - modificação de salvar arquivo URL+nomes_sub_categorias
+Duração: 0:01:24.503668 - session para requests
+Duração: 0:01:07.078147 - requests para session
+Duração: 0:01:27.471628 - session para requests
+Duração: 0:01:40.290974 - BeautifulSoup
