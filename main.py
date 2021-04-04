@@ -28,14 +28,18 @@ def pega_qtd_topicos_salva_arquivo():
     for url in df['URL']:
 
         page = requests.get(url)
-        soup = BeautifulSoup(page.text, 'html.parser')        
-        qtd_pag = len(soup.find_all(class_='paginationLink'))
+        soup = BeautifulSoup(page.text, 'html.parser')
         
+        if(soup.find(class_="busca-paginacao") != None):  
+            qtd_pag = int(soup.find_all(class_='paginationLink')[-1].text)         
+        else:
+            qtd_pag = 1
+
         page = requests.get(url[:-1] + str(qtd_pag))    
         soup = BeautifulSoup(page.text, 'html.parser')        
         qtd_topicos_ultima_pag =  len(soup.find_all(class_='forumList-item-subject'))
-        
-        total_sub = qtd_topicos_ultima_pag + ((qtd_pag - 1) * qtd_topicos) if qtd_pag > 1 else qtd_topicos_ultima_pag    
+
+        total_sub = qtd_topicos_ultima_pag + ((qtd_pag - 1) * qtd_topicos)
         lista.append(total_sub)
 
     df['Quantidade'] = lista
