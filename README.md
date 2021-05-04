@@ -9,5 +9,3 @@ Desafio proposto: elaboração de um código que preze por boas práticas e que 
 API da alura que retorna o slug de url das subcategorias (estude essa API e trabalhe com esses dados):  https://cursos.alura.com.br/api/categorias
 
 Prazo: Um mês, prazo final dia 22/04
-
-#scrapping-python
